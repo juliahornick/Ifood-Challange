@@ -1,6 +1,6 @@
 # Ifood-Challange
 
- <img  src="[https://www.canva.com/design/DAFS5-OM3dY/VzUo1r-8sOA1hHz6ZWMNEg/view?utm_content=DAFS5-OM3dY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFS5-OM3dY/VzUo1r-8sOA1hHz6ZWMNEg/view?utm_content=DAFS5-OM3dY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"/>  
+ <img  src="https://github.com/juliahornick/Ifood-Challange/blob/main/Image/Blue%20Zigzag%20Lines%20Store%20Header.png?raw=true"/>  
  
 Ordering food is one of the most common habits in human life nowadays.
 
